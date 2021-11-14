@@ -7,6 +7,7 @@ import threading
 #some useful variables
 font = ('verdana',18,'italic  bold')
 ob=PlayAudio()
+#------
 
 #important functions
 def clear():
